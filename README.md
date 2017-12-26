@@ -1,2 +1,2 @@
 # KnightBoard
-Knight Board Challenge
+Knight Board Challenge by Kevin Shen
